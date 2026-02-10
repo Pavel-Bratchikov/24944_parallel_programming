@@ -1,3 +1,0 @@
-/home/pavel/Desktop/PARAL/1/build/CMakeFiles/sinsum.dir
-/home/pavel/Desktop/PARAL/1/build/CMakeFiles/edit_cache.dir
-/home/pavel/Desktop/PARAL/1/build/CMakeFiles/rebuild_cache.dir
