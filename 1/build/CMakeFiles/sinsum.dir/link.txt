@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sinsum.dir/sinsum.cpp.o -o sinsum 
