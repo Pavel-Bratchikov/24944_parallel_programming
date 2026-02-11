@@ -19,6 +19,6 @@ int main() {
         arr[i] = std::sin(i * STEP);
     }
 
-    std::cout << "Сумма значений синуса: " << std::accumulate(arr.begin(), arr.end(), 0.0) << '\n';
+    std::cout << "Сумма значений синуса: " << std::accumulate(arr.begin(), arr.end(), 0.0) << std::endl;
     return 0;
 }
